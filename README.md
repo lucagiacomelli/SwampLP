@@ -25,7 +25,7 @@ For example:  './board 5 10 0.5'
 
 5) Finally, execute:
 
-'[path/to/clingo]clingo SBoard.lp Swamp.lp -c n=<number of rows> -c m=<number of columns>'    (3)
+'[path/to/clingo]clingo SBoard.lp Swamp.lp -c n=<number of rows> -c m=<number of columns>'
 
 For example:   '[path/to/clingo]clingo SBoard.lp Swamp.lp -c n=5 -c m=10'
 
